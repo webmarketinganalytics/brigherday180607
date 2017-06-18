@@ -754,6 +754,9 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #2969b0!important;
 }
+#ext_menu-0 .btn {
+  font-size: 15px;
+}
 #header5-1 .mbr-section-title {
   color: #ffffff;
   font-size: 80px;

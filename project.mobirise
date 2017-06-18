@@ -89,6 +89,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#2969b0!important"
+            },
+            ".btn": {
+              "font-size": "15px"
             }
           },
           "_name": "ext.menu",
@@ -125,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Brighter Day</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ACCREDITATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOW IT WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">PRICING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">3434334344</a></li>"
         },
         {
           "_inherit": "header1",
@@ -610,8 +613,8 @@
           "_anchor": "extFooter1-k",
           "_params": {
             "progress": 50,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
@@ -639,8 +642,8 @@
               "size": 0
             }
           },
-          "title": "MOBIRISE",
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>"
+          "title": "Brighter Day&nbsp;",
+          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">F</a>AQ</li><li><a href=\"\">B</a>log</li></ul>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -653,10 +656,10 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/628941872-2000x1398.jpg",
             "bgColor": "#ffffff;",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -813,11 +816,11 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/628941872-2000x1398.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
@@ -855,9 +858,10 @@
             "overlayColor": "#000",
             "inverse": true,
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "23 Street, Gold Coast Australia\n",
+              "placeId": "ChIJ73FSadRosWoRh4pfh8mBhfg",
+              "state": "ok",
+              "stateDetails": ""
             },
             "showTitle": true,
             "showContacts": true,
@@ -867,7 +871,7 @@
             "showForm": true,
             "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-success\">FREE CONSULTATION</a>"
           },
-          "title": "DROP A LINE",
+          "title": "Contact Us",
           "media1": {
             "iconFont": {
               "active": true,
@@ -879,8 +883,8 @@
             }
           },
           "title1": "Don't hesitate to contact us",
-          "subTitle1": "Ready for offers & cooperation",
-          "text1": "Phone: +1 (0) 000 0000 001 </br> Email: youremail@mail.com",
+          "subTitle1": "Ready for offers &amp; cooperation",
+          "text1": "<br><br>",
           "form": {
             "action": "ppc@oneppcagency.co.uk",
             "alerts": {
