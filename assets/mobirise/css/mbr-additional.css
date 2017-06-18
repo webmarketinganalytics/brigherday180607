@@ -780,3 +780,10 @@ h6,
   background-color: #c0a375;
   border-color: #c0a375;
 }
+#header3-9 .mbr-section-title,
+#header3-9 .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-a P {
+  font-size: 19px;
+}
