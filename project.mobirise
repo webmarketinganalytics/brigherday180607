@@ -665,10 +665,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
+            "showSubtitle": false,
             "firstType": "",
             "showIcons": true,
-            "showButtons": true,
+            "showButtons": false,
             "secondType": "",
             "thirdType": "primary",
             "fourthType": ""
