@@ -237,8 +237,8 @@
           "_anchor": "features2-c",
           "_params": {
             "columnsColor": "#2969b0",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
