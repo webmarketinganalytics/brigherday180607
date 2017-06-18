@@ -724,7 +724,7 @@
           "period2": "monthly",
           "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">3 Sessions per month</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "label3": "HOT!",
           "media3": {
             "iconFont": {
@@ -743,7 +743,7 @@
           "period3": "monthly",
           "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "label4": "HOT!",
           "media4": {
             "iconFont": {
@@ -762,7 +762,7 @@
           "period4": "monthly",
           "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>"
+          "button4": " <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         },
         {
           "_tags": [
