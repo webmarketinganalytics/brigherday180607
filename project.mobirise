@@ -22,8 +22,9 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 24,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 25,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -128,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Brighter Day</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ACCREDITATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOW IT WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">PRICING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">3434334344</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ACCREDITATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOW IT WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">PRICING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://mobirise.com/\">Tel: &nbsp;3434334344</a></li>"
         },
         {
           "_inherit": "header1",
@@ -196,18 +197,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "21px"
+            }
+          },
           "_anchor": "content1-a",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>Hello my name is Karen - Welcome to Brighter Day! I am a Wellness Practitioner working out of Robina on the Gold Coast.</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has\u001b been the industry's standard dummy text ever since the 1500s</p>",
-          "_styles": {
-            "P": {
-              "font-size": "21px"
-            }
-          }
+          "text": "<p>Hello my name is Karen - Welcome to Brighter Day! I am a Wellness Practitioner working out of Robina on the Gold Coast.</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has\u001b been the industry's standard dummy text ever since the 1500s</p>"
         },
         {
           "_inherit": "features1",
@@ -215,6 +216,24 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2969b0"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "25px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "25px",
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "features2-c",
           "_params": {
             "columnsColor": "#2969b0",
@@ -251,8 +270,8 @@
           },
           "title1": "Counselling&nbsp;",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
               "active": true,
@@ -322,25 +341,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2969b0"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "font-size": "25px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "font-size": "25px",
-              "color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "color": "#ffffff"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -613,7 +614,7 @@
           "_anchor": "extFooter1-k",
           "_params": {
             "progress": 50,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": false,
@@ -643,7 +644,7 @@
             }
           },
           "title": "Brighter Day&nbsp;",
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">F</a>AQ</li><li><a href=\"\">B</a>log</li></ul>"
+          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">F</a>AQ</li><li><a href=\"\">B</a>log</li></ul><br><ul><li>112 street name, &nbsp;Gold Coast Australia</li></ul><br><ul><li><br></li></ul>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -651,6 +652,14 @@
             "Extension"
           ],
           "_name": "extPricingTable1",
+          "_styles": {
+            ".mbr-price-term": {
+              "font-size": "20px"
+            },
+            "UL": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "extPricingTable1-m",
           "_params": {
             "paddingTop": "2",
@@ -669,7 +678,7 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": false,
-            "firstType": "",
+            "firstType": "hidden",
             "showIcons": true,
             "showButtons": true,
             "secondType": "",
@@ -753,15 +762,7 @@
           "period4": "monthly",
           "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
-          "_styles": {
-            ".mbr-price-term": {
-              "font-size": "20px"
-            },
-            "UL": {
-              "text-align": "right"
-            }
-          }
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>"
         },
         {
           "_tags": [
@@ -816,6 +817,10 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 3,
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/628941872-2000x1398.jpg",
@@ -825,11 +830,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "count": 3,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "Client Testimonials",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
