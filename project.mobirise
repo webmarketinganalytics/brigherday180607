@@ -260,12 +260,14 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
               "name": "desktop",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "family": "et-line"
+              "color": "#41a85f"
             }
           },
           "title1": "Counselling&nbsp;",
@@ -274,12 +276,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
               "name": "mobile",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "family": "et-line"
+              "color": "#41a85f"
             }
           },
           "title2": "Coaching",
@@ -721,8 +725,8 @@
           "title2": "BUSINESS",
           "subtitle2": "Description",
           "currency2": "$",
-          "price2": "10",
-          "period2": "monthly",
+          "price2": "100",
+          "period2": "&nbsp;per session",
           "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">3 Sessions per month</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
@@ -741,8 +745,8 @@
           "title3": "PREMIUM",
           "subtitle3": "Description",
           "currency3": "$",
-          "price3": "10",
-          "period3": "monthly",
+          "price3": "100",
+          "period3": "",
           "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
