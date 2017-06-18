@@ -671,7 +671,7 @@
             "showSubtitle": false,
             "firstType": "",
             "showIcons": true,
-            "showButtons": false,
+            "showButtons": true,
             "secondType": "",
             "thirdType": "primary",
             "fourthType": ""
@@ -842,7 +842,7 @@
           "_name": "extForm3",
           "_anchor": "extForm3-n",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": 1,
             "parallax": false,
             "bgImageRadio": false,
