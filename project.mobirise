@@ -667,7 +667,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/628941872-2000x1398.jpg",
-            "bgColor": "#ffffff;",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -709,12 +709,13 @@
           "label2": "HOT!",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
               "name": "layers",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "color": "#666666",
-              "family": "et-line"
+              "color": "#2969b0"
             }
           },
           "title2": "BUSINESS",
@@ -728,12 +729,13 @@
           "label3": "HOT!",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
               "name": "layers",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "color": "#666666",
-              "family": "et-line"
+              "color": "#2969b0"
             }
           },
           "title3": "PREMIUM",
@@ -747,12 +749,13 @@
           "label4": "HOT!",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
               "name": "layers",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "color": "#666666",
-              "family": "et-line"
+              "color": "#2c82c9"
             }
           },
           "title4": "ULTIMATE",
