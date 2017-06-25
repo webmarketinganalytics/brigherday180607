@@ -879,7 +879,7 @@
             "overlayColor": "#000",
             "inverse": true,
             "googleMap": {
-              "address": "Australia\n",
+              "address": "Australia",
               "placeId": "",
               "state": "error",
               "stateDetails": "Unknown error"
