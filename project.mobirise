@@ -222,10 +222,10 @@
               "background-color": "#2969b0"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
-              "font-size": "25px"
+              "font-size": "32px"
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
-              "font-size": "25px",
+              "font-size": "32px",
               "color": "#ffffff"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle": {

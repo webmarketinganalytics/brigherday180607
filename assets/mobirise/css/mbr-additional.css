@@ -777,10 +777,10 @@ h6,
   background-color: #2969b0;
 }
 #features2-c .mbr-cards-col:nth-child(odd) .card-title {
-  font-size: 25px;
+  font-size: 32px;
 }
 #features2-c .mbr-cards-col:nth-child(even) .card-title {
-  font-size: 25px;
+  font-size: 32px;
   color: #ffffff;
 }
 #features2-c .mbr-cards-col:nth-child(even) .card-subtitle {
