@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BrighterDay 18.06.17",
-    "currentPage": "FAQ.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -649,7 +649,7 @@
             }
           },
           "title": "Brighter Day&nbsp;",
-          "list": "<ul><li>Services&nbsp;</li><li><a href=\"index.html#extFeatures3-6\">A</a>ccreditations &nbsp; &nbsp;&nbsp;&nbsp;<a href=\"index.html#extFeatures8-e\">How it Works</a></li><li><a href=\"PrivacyPolicy.html\">Privacy Policy</a></li><li><a href=\"FAQ.html\">FAQ</a></li><li><a href=\"Blog.html\">Blog</a></li></ul><br><ul><li>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 112 street name, &nbsp;Gold Coast Australia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; social media icons</li></ul><br><ul><li><br></li></ul>",
+          "list": "<ul><li><a href=\"index.html#features2-c\">Services</a>&nbsp;</li><li><a href=\"index.html#extFeatures3-6\">A</a>ccreditations<a href=\"index.html#extFeatures3-6\"></a> &nbsp; &nbsp;&nbsp;&nbsp;<a href=\"index.html#extFeatures8-e\">How it Works</a></li><li><a href=\"PrivacyPolicy.html\">Privacy Policy</a></li><li><a href=\"FAQ.html\">FAQ</a></li><li><a href=\"Blog.html\">Blog</a></li></ul><br><ul><li>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 112 street name, &nbsp;Gold Coast Australia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; social media icons</li></ul><br><ul><li><br></li></ul>",
           "_styles": {
             "UL": {
               "font-size": "20px",
@@ -884,7 +884,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-default btn-sm\"></a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-success\">FREE CONSULTATION</a>"
           },
           "title": "Contact Us",
           "media1": {
@@ -1121,7 +1121,7 @@
             }
           },
           "title": "Brighter Day&nbsp;",
-          "list": "<ul><li>Services&nbsp;</li><li><a href=\"index.html#extFeatures3-6\">A</a>ccreditations &nbsp; &nbsp;&nbsp;&nbsp;<a href=\"index.html#extFeatures8-e\">How it Works</a></li><li><a href=\"PrivacyPolicy.html\">Privacy Policy</a></li><li><a href=\"FAQ.html\">FAQ</a></li><li><a href=\"Blog.html\">Blog</a></li></ul><br><ul><li>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 112 street name, &nbsp;Gold Coast Australia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; social media icons</li></ul><br><ul><li><br></li></ul>",
+          "list": "<ul><li><a href=\"index.html#features2-c\">Services</a>&nbsp;</li><li><a href=\"index.html#extFeatures3-6\">A</a>ccreditations<a href=\"index.html#extFeatures3-6\"></a> &nbsp; &nbsp;&nbsp;&nbsp;<a href=\"index.html#extFeatures8-e\">How it Works</a></li><li><a href=\"PrivacyPolicy.html\">Privacy Policy</a></li><li><a href=\"FAQ.html\">FAQ</a></li><li><a href=\"Blog.html\">Blog</a></li></ul><br><ul><li>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 112 street name, &nbsp;Gold Coast Australia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; social media icons</li></ul><br><ul><li><br></li></ul>",
           "_styles": {
             "UL": {
               "font-size": "20px",
@@ -1301,7 +1301,7 @@
             }
           },
           "title": "Brighter Day&nbsp;",
-          "list": "<ul><li>Services&nbsp;</li><li><a href=\"index.html#extFeatures3-6\">A</a>ccreditations &nbsp; &nbsp;&nbsp;&nbsp;<a href=\"index.html#extFeatures8-e\">How it Works</a></li><li><a href=\"PrivacyPolicy.html\">Privacy Policy</a></li><li><a href=\"FAQ.html\">FAQ</a></li><li><a href=\"Blog.html\">Blog</a></li></ul><br><ul><li>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 112 street name, &nbsp;Gold Coast Australia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; social media icons</li></ul><br><ul><li><br></li></ul>"
+          "list": "<ul><li><a href=\"index.html#features2-c\">Services</a>&nbsp;</li><li><a href=\"index.html#extFeatures3-6\">A</a>ccreditations<a href=\"index.html#extFeatures3-6\"></a> &nbsp; &nbsp;&nbsp;&nbsp;<a href=\"index.html#extFeatures8-e\">How it Works</a></li><li><a href=\"PrivacyPolicy.html\">Privacy Policy</a></li><li><a href=\"FAQ.html\">FAQ</a></li><li><a href=\"Blog.html\">Blog</a></li></ul><br><ul><li>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 112 street name, &nbsp;Gold Coast Australia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; social media icons</li></ul><br><ul><li><br></li></ul>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1589,7 +1589,7 @@
             }
           },
           "title": "Brighter Day&nbsp;",
-          "list": "<ul><li>Services&nbsp;</li><li><a href=\"index.html#extFeatures3-6\">A</a>ccreditations &nbsp; &nbsp;&nbsp;&nbsp;<a href=\"index.html#extFeatures8-e\">How it Works</a></li><li><a href=\"PrivacyPolicy.html\">Privacy Policy</a></li><li><a href=\"FAQ.html\">FAQ</a></li><li><a href=\"Blog.html\">Blog</a></li></ul><br><ul><li>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 112 street name, &nbsp;Gold Coast Australia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; social media icons</li></ul><br><ul><li><br></li></ul>"
+          "list": "<ul><li><a href=\"index.html#features2-c\">Services</a>&nbsp;</li><li><a href=\"index.html#extFeatures3-6\">A</a>ccreditations<a href=\"index.html#extFeatures3-6\"></a> &nbsp; &nbsp;&nbsp;&nbsp;<a href=\"index.html#extFeatures8-e\">How it Works</a></li><li><a href=\"PrivacyPolicy.html\">Privacy Policy</a></li><li><a href=\"FAQ.html\">FAQ</a></li><li><a href=\"Blog.html\">Blog</a></li></ul><br><ul><li>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 112 street name, &nbsp;Gold Coast Australia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; social media icons</li></ul><br><ul><li><br></li></ul>"
         },
         {
           "_styles": {
