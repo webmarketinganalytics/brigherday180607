@@ -827,12 +827,16 @@ h6,
 #extFooter1-k UL {
   font-size: 20px;
   color: #ffffff;
+  text-align: center;
 }
 #extPricingTable1-m .mbr-price-term {
   font-size: 20px;
 }
 #extPricingTable1-m UL {
-  text-align: right;
+  text-align: center;
+}
+#testimonials1-j .mbr-section-subtitle {
+  color: #000000;
 }
 
 #ext_menu-p .hide-buttons .nav-btn {
@@ -903,6 +907,7 @@ h6,
 #extFooter1-q UL {
   font-size: 20px;
   color: #ffffff;
+  text-align: center;
 }
 
 #ext_menu-u .hide-buttons .nav-btn {
@@ -973,6 +978,7 @@ h6,
 #extFooter1-v UL {
   font-size: 20px;
   color: #ffffff;
+  text-align: center;
 }
 
 #ext_menu-w .hide-buttons .nav-btn {
@@ -1043,6 +1049,7 @@ h6,
 #extFooter1-x UL {
   font-size: 20px;
   color: #ffffff;
+  text-align: center;
 }
 #header3-z .mbr-section-title,
 #header3-z .mbr-section-subtitle {
