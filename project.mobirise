@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BrighterDay 18.06.17",
-    "currentPage": "index.html",
+    "currentPage": "Blog.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -884,7 +884,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-success\">FREE CONSULTATION</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-default btn-sm\"></a>"
           },
           "title": "Contact Us",
           "media1": {
@@ -940,30 +940,6 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "font-size": "30px",
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-t",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Title with Solid Background Color",
-          "meta": "<br><br><b>Our Blog</b>"
-        },
-        {
           "alias": "social-feed",
           "_tags": [
             "Extension"
@@ -971,7 +947,7 @@
           "_name": "feed",
           "_anchor": "feed-r",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "youtube": "UCt_tncVAetpK5JeM8L-8jyw",
             "facebook": "mobirise",

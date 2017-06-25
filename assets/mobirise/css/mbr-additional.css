@@ -835,14 +835,6 @@ h6,
   text-align: right;
 }
 
-#header3-t .mbr-section-title,
-#header3-t .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-t SMALL {
-  font-size: 30px;
-  color: #000000;
-}
 #ext_menu-p .hide-buttons .nav-btn {
   display: none !important;
 }
