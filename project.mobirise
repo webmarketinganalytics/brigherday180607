@@ -755,7 +755,7 @@
           "currency3": "$",
           "price3": "100",
           "period3": "",
-          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description3": "Mobirise is perfect for non-techies who are not familiar <br>with web development.",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">1 Session Per month</li><li class=\"list-group-item\">50 Minutes</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK FREE CONSULTATION</a>",
           "label4": "HOT!",
@@ -775,7 +775,7 @@
           "currency4": "$",
           "price4": "260",
           "period4": "monthly",
-          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description4": "Mobirise is perfect for non-techies who are not familiar with <br>web development.",
           "list4": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 30px;\">3 Session Per Month</span><br><li class=\"list-group-item\">150 Minutes</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button4": " <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK FREE CONSULTATION</a>"
         },
